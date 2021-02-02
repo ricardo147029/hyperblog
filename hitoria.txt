@@ -6,11 +6,4 @@ tiene 30 años
 
 es electromecanico por ahora 
 
-aficiones 
-una de las metas en su vida ese aprender aprogramar bien y profecionalmente 
 
-
-
-vamos a desarrollar otra modificacion para ejemplificar el uso de este tipo de variables 
-
-a continuacion mosdtramos los detalles
